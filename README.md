@@ -39,13 +39,13 @@ Visualizations highlight:
 ## 🚀 How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn
-jupyter notebook Project-1.ipynb
+jupyter notebook netflix_analysis.ipynb
 ```
 
 ---
 
 ## 📦 Project Structure
 ```
-├── Project-1.ipynb
+├── netflix_analysis.ipynb
 ├── netflix_titles.csv
 └── README.md
