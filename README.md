@@ -49,8 +49,3 @@ jupyter notebook Project-1.ipynb
 ├── Project-1.ipynb
 ├── netflix_titles.csv
 └── README.md
-```
-
----n  
-
-Just tell me what you want next.
